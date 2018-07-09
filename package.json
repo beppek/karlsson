@@ -1,0 +1,11 @@
+{
+  "name": "karlsson",
+  "version": "1.0.0",
+  "description": "Homepage of Max Beppe Karlsson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beppe Karlsson",
+  "license": "ISC"
+}
